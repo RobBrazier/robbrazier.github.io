@@ -1,5 +1,6 @@
 {
     "rewrites": [
-      { "source": "/svelte-awesome/:match*", "destination": "https://svelte-awesome.vercel.app/:match*" }
+      { "source": "/svelte-awesome/:match*", "destination": "https://svelte-awesome.vercel.app/:match*" },
+      { "source": "/svelte-awesome/", "destination": "https://svelte-awesome.vercel.app/" }
     ]
 }
