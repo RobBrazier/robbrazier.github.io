@@ -1,6 +1,6 @@
 {
     "rewrites": [
-      { "source": "/svelte-awesome/:match*", "destination": "https://svelte-awesome.vercel.app/:match*" },
-      { "source": "/svelte-awesome/", "destination": "https://svelte-awesome.vercel.app/" }
+      { "source": "/svelte-awesome/:match*", "destination": "https://docs.robbrazier.com/svelte-awesome/:match*" },
+      { "source": "/svelte-awesome/", "destination": "https://docs.robbrazier.com/svelte-awesome" }
     ]
 }
